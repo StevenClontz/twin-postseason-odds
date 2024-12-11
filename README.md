@@ -1,7 +1,7 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# What are the odds?
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+A family has twin girls -- Lucie, who went to Western Michigan, and Lilly, who went to South Alabama. As it turns out, W Michigan and South are facing off in the 2024 FBS postseason.
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
+The father said: "For our only two children to be one at Western Michigan and one at South, it just blew my mind. What are the actual odds?"
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+*Open [notebook.ipynb](./notebook.ipynb) to find out!*
